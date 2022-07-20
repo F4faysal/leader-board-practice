@@ -126,6 +126,7 @@ hr {
 .course {
     Width: 252.42px;
     Height: 269.79px;
+    padding-bottom: 20px;
 
 }
 
@@ -146,6 +147,7 @@ hr {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 
 .fa-star .fa-clock .fa-clock-time {
